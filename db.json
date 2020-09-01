@@ -1,6 +1,14 @@
 {
   "books": [
     {
+      "0": {
+        "id": 2,
+        "username": "auer"
+      },
+      "1": {
+        "id": 8,
+        "username": "goodwin"
+      },
       "id": 1,
       "title": "Picture Perfect",
       "description": "When her seven-year-old nephew, a hemophiliac, mysteriously disappears during their camping trip, pediatrician Lorrie Ryan races against time to find the missing boy with the help of FBI agent Stuart Saunders. Previously published as Panda Bear Is Critical. Reprint.",
